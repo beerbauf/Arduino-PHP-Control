@@ -1,0 +1,3 @@
+A PHP project to control Arduino board throught a PHP interface.
+
+2012-04-13 (v0.0.1) Serial connection PHP class.
